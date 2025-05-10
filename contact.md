@@ -1,22 +1,15 @@
 ---
 layout: page
-title: 入会・見学の問い合わせ
+title: 見学の問い合わせ
 description: 
 background: '/img/bg-contact.jpg'
 form: true
 ---
 
 <p>初心者大歓迎です。お気軽に見学にお越しください。<br />
-入会・見学をご希望の方は、こちらのフォームからご連絡ください。</p>
+見学をご希望の方は、こちらのフォームからご連絡ください。</p>
 
-<!--
-<p>お急ぎの方は、主任指導員 小宮(03-3956-2066)<br />
-または、
-中板橋剣道会のメールアドレス kendo@komiyaen.co.jp まで、<br />
-お問い合わせください。</p>
--->
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYUgK_7YJAuYVpY5ueWAaTdTCt0e5Co84-roeX6pw_3IYLhQ/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYUgK_7YJAuYVpY5ueWAaTdTCt0e5Co84-roeX6pw_3IYLhQ/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 <!--
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>

@@ -1,5 +1,5 @@
 title:              中板橋剣道会
-email:              nakaitabashikendoukai@gmail.com
+#email:              nakaitabashikendoukai@gmail.com
 description:        中板橋剣道会 - 1971年 (昭和46年) 創立 高段者が多い剣道会です
 author:             中板橋剣道会
 #baseurl:            "/"
@@ -9,7 +9,7 @@ url:                "https://nakaita-kendo.github.io"
 #twitter_username:   SBootstrap
 #github_username:    StartBootstrap
 #facebook_username:  StartBootstrap
-instagram_username:  nakaita-kendo
+instagram_username:  nakaita.kendo
 #linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
