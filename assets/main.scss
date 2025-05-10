@@ -1,0 +1,134 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "styles";
+
+:root {
+  --color-text-primary: #333;
+  --color-text-tertiary: #777;
+  --color-text-link: #4078c0;
+  --color-bg-primary: #fff;
+  --color-bg-secondary: #fafbfc;
+  --color-bg-tertiary: #f8f8f8;
+  --color-border-primary: #ddd;
+  --color-border-secondary: #eaecef;
+  --color-border-tertiary: #d1d5da;
+  --color-kbd-foreground: #444d56;
+  --color-markdown-blockquote-border: #dfe2e5;
+  --color-markdown-table-border: #dfe2e5;
+  --color-markdown-table-tr-border: #c6cbd1;
+  --color-markdown-code-bg: #1b1f230d;
+}
+[data-theme="dark"] {
+  --color-text-primary: #c9d1d9;
+  --color-text-tertiary: #8b949e;
+  --color-text-link: #58a6ff;
+  --color-bg-primary: #0d1117;
+  --color-bg-secondary: #0d1117;
+  --color-bg-tertiary: #161b22;
+  --color-border-primary: #30363d;
+  --color-border-secondary: #21262d;
+  --color-border-tertiary: #6e7681;
+  --color-kbd-foreground: #b1bac4;
+  --color-markdown-blockquote-border: #3b434b;
+  --color-markdown-table-border: #3b434b;
+  --color-markdown-table-tr-border: #272c32;
+  --color-markdown-code-bg: #f0f6fc26;
+}
+
+/* table */
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table tr {
+  background-color: var(--color-bg-primary);
+  border-top: 1px solid var(--color-markdown-table-tr-border);
+}
+table tr:nth-child(2n) {
+  background-color: var(--color-bg-tertiary);
+}
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid var(--color-markdown-table-border);
+  vertical-align: top;
+}
+
+/* ナビゲーションメニュー */
+@media only screen and (min-width: 992px) {
+  #mainNav .navbar-nav>li.nav-item>a {
+    padding: 10px 12px;
+    color: #fff;
+  }
+}
+
+#mainNav .navbar-nav>li.nav-item>a {
+    font-size: 16px;
+}
+
+/* h1 */
+@media only screen and (min-width: 768px) {
+    header.masthead .page-heading h1, header.masthead .site-heading h1 {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .post-preview > a > .post-title {
+        font-size: 24px;
+    }
+}
+
+/* サイト名 */
+.navbar-brand {
+    font-size: 2rem;
+}
+
+body {
+  font-size: 16px;
+}
+
+h1, .h1 {
+  font-size: 2rem;
+}
+
+h2, .h2 {
+  font-size: 1.5rem;
+}
+
+h3, .h3 {
+  font-size: 1.3rem;
+}
+
+h4, .h4 {
+  font-size: 1.2rem;
+}
+
+h5, .h5 {
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  margin-top: 30px;
+}
+
+/* お知らせの日付 */
+.post-preview > .post-meta {
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    color: #6c757d;
+    text-align: right;
+}
+header.masthead .post-heading .meta {
+    font-size: 20px;
+    font-style: normal;
+    text-align: right;
+}
