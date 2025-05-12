@@ -148,3 +148,10 @@ header.masthead .post-heading .meta {
 div.container div.row img {
   width: 100%;
 }
+
+@media only screen and (min-width: 992px) {
+  .navbar-nav .nav-text {
+    padding-top:15px;
+    padding-bottom:15px;
+  }
+}

@@ -3,31 +3,28 @@
   <div class="container">
     <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
+      メニュー
       <i class="fa fa-bars"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-{% comment %}
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/" | relative_url }}">トップページ</a>
+        <li class="nav-item nav-text">
+          <a class="nav-link" href="{{ "/about" | relative_url }}">中板橋剣道会について</a>
         </li>
-{% endcomment %} 
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/about" | relative_url }}">中板橋剣道会について</a>
-        </li>
-        <li class="nav-item">
+        <li class="nav-item nav-text">
           <a class="nav-link" href="{{ "/posts" | relative_url }}">お知らせ</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/contact" | relative_url }}">見学の問い合わせ</a>
+        <li class="nav-item nav-text">
+          <a class="nav-link" href="{{ "/schedule" | relative_url }}">スケジュール</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/schedule" | relative_url }}">スケジュール</a>
+        <li class="nav-item nav-text">
+          <a class="nav-link" href="{{ "/result" | relative_url }}">試合の結果</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/result" | relative_url }}">試合の結果</a>
-        </li>
+        <li class="nav-item nav-button">
+			<a class="nav-link" href="{{ "/contact" | relative_url }}">
+			  <button type="button" class="btn btn-primary">見学したい</button>
+			</a>
+		</li>
       </ul>
     </div>
   </div>

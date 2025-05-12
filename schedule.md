@@ -5,6 +5,11 @@ description:
 background: '/img/bg-about.jpg'
 ---
 
+# 見学のお問い合わせ
+
+見学は、**[見学のお問い合わせ](/contact)** から受け付けております。  
+初心者大歓迎です。お気軽に見学にお越しください。
+
 # 初心者
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FTokyo&showPrint=0&src=NTA3MTdkZDIzNWNlMDI5ZjM3NWExNzBmY2RkYzNkZWU0YjNjMjNhZTIwYTg2NzYyYmQ0MDgwZTM3NGE3ODcyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%23b90e28" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
