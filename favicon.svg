@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="800"
+   version="1.1"
+   viewBox="0 0 200 200"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+	/* light mode */
+	svg {
+		fill: none;
+	}
+	circle {
+		stroke: #4e131a;
+		stroke-width: 0;
+		fill: #4E131A;
+	}
+	text {
+		fill: #eee;
+		font-size: 100;
+		font-weight: 1000;
+		font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+	}
+
+	/* dark mode*/
+	@media (prefers-color-scheme: dark) {
+		svg {
+			fill: none;
+		}
+		circle {
+			stroke: #eee;
+			stroke-width: 0;
+			fill: #eee;
+		}
+		text {
+			fill: #4e131a;
+			font-size: 50px;
+			font-weight: 1000;
+			font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+		}
+	}
+	</style>
+  <g>
+    <circle cx="100" cy="100" r="95" />
+    <text x="8" y="170" font-size="190" font-weight="2000">こ</text>
+  </g>
+</svg>
