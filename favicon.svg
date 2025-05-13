@@ -43,6 +43,7 @@
 	</style>
   <g>
     <circle cx="100" cy="100" r="95" />
-    <text x="8" y="170" font-size="190" font-weight="2000">こ</text>
+    <text x="5" y="100" font-size="95" font-weight="2000">ここ</text>
+    <text x="55" y="180" font-size="90" font-weight="2000">ろ</text>
   </g>
 </svg>
