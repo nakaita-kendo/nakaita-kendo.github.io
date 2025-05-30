@@ -2,7 +2,7 @@
 layout: page
 title: 見学の問い合わせ
 description: 
-background: '/img/bg-contact.jpg'
+background: '/img/bg-contact.webp'
 form: true
 ---
 

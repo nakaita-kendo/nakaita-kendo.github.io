@@ -2,7 +2,7 @@
 layout: page
 title: スケジュール
 description: 
-background: '/img/bg-about.jpg'
+background: '/img/bg-about.webp'
 ---
 
 # 見学のお問い合わせ

@@ -2,7 +2,7 @@
 layout: page
 title: 中板橋剣道会について
 description: 
-background: '/img/bg-about.jpg'
+background: '/img/bg-about.webp'
 ---
 
 中板橋剣道会は、[中板橋剣道会 道場訓](#%E4%B8%AD%E6%9D%BF%E6%A9%8B%E5%89%A3%E9%81%93%E4%BC%9A-%E9%81%93%E5%A0%B4%E8%A8%93) の下に剣道を愛好する者、またこれから剣道をはじめたいと考える方が剣道を通じて心身を鍛え合い親睦を深めることを目的としております。

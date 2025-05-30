@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/bg-index.jpg'
+background: '/img/bg-index.webp'
 ---
 
 中板橋剣道会は、1971年創立、東京都板橋区で活動する、高段者が多い剣道会です。
