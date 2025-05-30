@@ -2,7 +2,7 @@
 layout: page
 title: 試合の結果
 description: 
-background: /img/bg-about.webp
+background: /img/bg-index.webp
 ---
 
 ## 2025年3月9日 第48回板橋区剣道開放団体連合会錬成大会 (小豆沢体育館)
