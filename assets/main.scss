@@ -147,6 +147,9 @@ header.masthead .post-heading .meta {
 /* img */
 div.container div.row img {
   width: 100%;
+  box-shadow: 10px 10px 10px #ccc;
+  margin-bottom: 30px;
+  border-radius: 5%;
 }
 
 @media only screen and (min-width: 992px) {
