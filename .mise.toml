@@ -1,2 +1,6 @@
 [tools]
 ruby = "3.3.4"
+
+[tasks.jekyll]
+description = "run jekyll"
+run = "bundle exec jekyll serve --incremental --livereload --port 4001 --livereload_port 40001"
