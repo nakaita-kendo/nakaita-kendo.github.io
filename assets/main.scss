@@ -159,6 +159,17 @@ div.container div.row img {
   }
 }
 
+@media only screen and (min-width: 992px) {
+  #mainNav.is-fixed {
+    top: 0px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  #mainNav.is-visible {
+    top: -100px;
+  }
+}
+
 a {
   color: #4e131a;
 }
