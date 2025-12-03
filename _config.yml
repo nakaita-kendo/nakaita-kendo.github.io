@@ -14,6 +14,7 @@ url:                "https://nakaita-kendo.github.io"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics: G-04CQ99WNKC
+
 # Build settings
 markdown:           kramdown
 paginate:           5
