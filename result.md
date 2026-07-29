@@ -5,6 +5,13 @@ description:
 background: /img/bg-index.webp
 ---
 
+## 2026年7月12日 [第54回板橋区内小学生・第39回中学生剣道錬成大会](https://itabashi-kendo.com/tournament/20260712/)
+
+| 試合種別                  | 賞     | 氏名        |
+|---------------------------|--------|-------------|
+| 小学四年生                | 優秀賞 | 横山 航一   |
+| 中学二年生 女子           | 三位   | 喜屋武 千恵 |
+
 ## 2026年3月8日 第49回 板橋区剣道開放団体連合会 錬成大会
 
 | 部                        | 賞     | 氏名        |
@@ -85,7 +92,7 @@ background: /img/bg-index.webp
 
 ----
 
-## 2025年8月5日: [JR東日本ジュニア剣道大会](https://www.kendo.or.jp/competition/jr-34th/) @日本武道館
+## 2025年8月5日: [第34回 JR東日本ジュニア剣道大会](https://www.kendo.or.jp/competition/jr-34th/) @日本武道館
 
 一回戦
 
